@@ -10,7 +10,7 @@ Create a function definiton named dist()
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4:
-Print the result within the block
+Print the result in float data type within the block
 ### Step 5: 
 Assign values for the two points and Call the function header
 ### PROGRAM:
